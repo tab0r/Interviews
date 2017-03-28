@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^notes$ notes/index.php [QSA,NC,L]
+</IfModule>

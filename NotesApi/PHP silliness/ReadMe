@@ -1,0 +1,9 @@
+Setup
+
+1) Place index.php in ~/api/notes
+2) Save htaccess_use.txt as .htacces in ~/api/notes
+3) Save htaccess_use2.txt as .htacces in ~/api (or add rule to existing .htaccess)
+
+Run as requested in
+
+https://gist.github.com/ericdcobb/ea4d4ab648e3caf52d6f
